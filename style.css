@@ -5,6 +5,7 @@
 body{
     background-image: url(background.jpg);
     background-size: cover;
+    text-align: center;
 }
 .container{
     height: 70vh; /* vh - 1% of the viewport's height */
